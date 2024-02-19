@@ -14,7 +14,7 @@ As you traverse the data galaxy, keep an eye out for the following flags:
 
 1. **Test a Parser**: Let your Jedi instincts guide you as you test your parsing skills.
 2. **Create a Dashboard**: Craft a dashboard worthy of the Jedi Council to showcase your triumphs. 
-3. **Click Flags you Parsed**: Unveil the hidden flags and claim your rightful place among the data elite.
+3. **Click Flags you Parsed**: Unveil the hidden flags and claim your rightful place among the data elite. (see below)
 
 ## Parsing Flags - Your Jedi Trials
 
