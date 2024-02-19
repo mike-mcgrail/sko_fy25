@@ -2,11 +2,22 @@
 
 Greetings, brave Data Jedis! Prepare your lightsabers and channel the Force as you embark on a thrilling adventure through the data galaxy. In this challenge, you'll wield your data mastery to ingest, parse, and uncover hidden flags scattered across the stars.
 
+# Help the Rebels Find Their Lost Droids
+
+A long time ago in a galaxy far, far away... The Rebel forces have lost track of their trusted droids R2D2 and BB8. These droids hold the secret plans and maps critical for the success of the Rebellion. 
+
+We need all aspiring Jedi data padawans to use their nascent data skills to help locate these missing droids. You'll need to send out some decoy droid signals, parse any responses to extract flags that could reveal the droids' locations, and create a rebel dashboard to map possible droid sightings. 
+
+Think you have what it takes to rescue R2D2 and BB8? Then grab your lightsaber and let the DataOps Jedi training begin!
+
+
 ## Prerequisites 
 
 Before embarking on this epic quest, ensure you have the following prerequisites:
 
 - **Curl:** Equipped with this tool, you'll be ready to interact with APIs like a true Jedi.
+- **Access To Purple**
+   
 
 ## May the Flags Be With You
 
