@@ -2,6 +2,10 @@
 
 Greetings, brave Data Jedis! Prepare your lightsabers and channel the Force as you embark on a thrilling adventure through the data galaxy. In this challenge, you'll wield your data mastery to ingest, parse, and uncover hidden flags scattered across the stars.
 
+<img width="1728" alt="Pasted_Image_2_19_24__11_40_AM" src="https://github.com/jmorascalyr/sko_fy25/assets/42879226/7a56e871-9bd6-41a7-9046-332fd32c6f1f">
+
+
+
 # Help the Rebels Find Their Lost Droids
 
 A long time ago in a galaxy far, far away... The Rebel forces have lost track of their trusted droids R2D2 and BB8. These droids hold the secret plans and maps critical for the success of the Rebellion. 
